@@ -1,2 +1,2 @@
 #!/bin/bash
-echio "School"
+echo "School"
